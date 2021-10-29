@@ -1,4 +1,5 @@
-# Senior_Research
+# Senior Research
+### A Comparative Study of Effectiveness Between Classical Classification Machine Learning Algorithms and Neural Networks 
 This project involves the research of machine learning methods and 
 their ability to detect computer systems with malware. The objective 
 of this proposal is to perform a comparative study between three different 
